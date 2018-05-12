@@ -1,0 +1,32 @@
+_repo: Die-epiphytische-Vegetation-Amerikas_23672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schimper, Andreas Franz Wilhelm
+    birthdate: 1856
+    deathdate: 1901
+    gutenberg_agent_id: '25982'
+    url: http://www.gutenberg.org/2009/agents/25982
+    wikipedia: http://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Botany
+gutenberg_issued: '2007-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23672'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botany -- Tropics'
+- !lcsh 'Plant ecology'
+- !lcsh 'Phytogeography'
+- !lcc 'QK'
+title: Die epiphytische Vegetation Amerikas
+url: http://www.gutenberg.org/ebooks/23672
